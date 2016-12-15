@@ -1,7 +1,3 @@
-// Daniel Shiffman
-// http://codingrainbow.com
-// http://patreon.com/codingrainbow
-// Code for: https://youtu.be/AaGK-fj-BAM
 
 var s;
 var scl = 20;
